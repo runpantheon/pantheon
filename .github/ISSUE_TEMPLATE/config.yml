@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
   - name: Security problem
-    url: https://pantheon.run/policy/security
-    about: Please report security problems privately, never in a public issue.
+    url: https://docs.pantheon.run/security
+    about: Email security@pantheon.run privately. Never report a security problem in a public issue.
   - name: Account, billing or anything private
     url: mailto:support@pantheon.run
     about: Email us. Public issues are visible to everyone.
