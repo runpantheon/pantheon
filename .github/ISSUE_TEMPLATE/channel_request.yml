@@ -1,0 +1,25 @@
+name: Channel request
+description: Ask for a messaging app or tool Pantheon should connect to.
+labels: ["channel request"]
+body:
+  - type: input
+    id: channel
+    attributes:
+      label: Which app or tool?
+      placeholder: e.g. Slack, Discord
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: How do you use it?
+      description: Who you talk to there and what you'd want Pantheon to do with those conversations.
+    validations:
+      required: true
+  - type: checkboxes
+    id: dupe
+    attributes:
+      label: Before you send
+      options:
+        - label: I searched the open issues and this channel isn't requested yet (if it is, add a 👍 there instead).
+          required: true

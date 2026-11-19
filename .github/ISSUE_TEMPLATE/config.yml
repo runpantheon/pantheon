@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security problem
+    url: https://pantheon.run/policy/security
+    about: Please report security problems privately, never in a public issue.
+  - name: Account, billing or anything private
+    url: mailto:support@pantheon.run
+    about: Email us. Public issues are visible to everyone.
+  - name: Questions and ideas
+    url: https://github.com/runpantheon/pantheon/discussions
+    about: Ask a question or talk through an idea with us and other people who use Pantheon.
