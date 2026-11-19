@@ -86,5 +86,5 @@ Please don't report security problems in public issues. See [SECURITY.md](SECURI
 <br>
 
 <div align="center">
-<sub>© 2026 Summer Brook Solutions Inc. All rights reserved. See <a href="LICENSE">LICENSE</a>.</sub>
+<sub>© 2026 Pantheon Labs. All rights reserved. See <a href="LICENSE">LICENSE</a>.</sub>
 </div>
