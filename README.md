@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/301452439?v=4" width="72" alt="Pantheon" />
+<a href="https://pantheon.run"><img src="https://raw.githubusercontent.com/runpantheon/.github/main/profile/banner.svg" alt="Pantheon: the unified inbox and CRM for Telegram, WhatsApp, iMessage and X/Twitter" width="100%" /></a>
 
 # Pantheon
 
@@ -29,6 +29,10 @@ Contacts, companies and deals stay current from the conversations you're already
 </div>
 
 <br>
+
+> [!NOTE]
+> **Pantheon is in private alpha.** Accounts are let in from the waitlist in turn: [request access](https://app.pantheon.run/register).<br>
+> The **MCP server, CLI and developer API** need a workspace with **Developer access** on a paid (**Pro**) plan. Pantheon turns Developer access on per workspace, and teams are being onboarded now: [ask for it](https://pantheon.run/contact).
 
 This is Pantheon's public home on GitHub: report bugs, ask for features, ask questions and follow what changes. Pantheon itself is proprietary, so there is no source code here.
 
