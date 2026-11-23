@@ -4,20 +4,27 @@
 
 # Pantheon
 
-<sub>The relationship OS that runs itself</sub>
+**The Unified Inbox & CRM** · Telegram, WhatsApp, iMessage & X/Twitter
 
 <br>
 
-Your chats become a CRM that updates itself, across **Telegram**, **WhatsApp** and **iMessage**, plus your **X** contacts.<br>
+Your chats become a CRM that updates itself, across **Telegram**, **WhatsApp**, **iMessage** and **X/Twitter**.<br>
 Contacts, companies and deals stay current from the conversations you're already having.
 
 <sub>
 <a href="https://pantheon.run">Website</a> &nbsp;·&nbsp;
 <a href="https://app.pantheon.run">Open the app</a> &nbsp;·&nbsp;
 <a href="https://docs.pantheon.run">Docs</a> &nbsp;·&nbsp;
+<a href="https://www.npmjs.com/package/runpantheon">npm</a> &nbsp;·&nbsp;
 <a href="https://github.com/runpantheon/pantheon/discussions">Discussions</a> &nbsp;·&nbsp;
 <a href="https://t.me/+kI_2JfOEgNwxM2M5">Community</a>
 </sub>
+
+<br><br>
+
+<a href="https://www.npmjs.com/package/runpantheon"><img alt="npm: runpantheon" src="https://img.shields.io/npm/v/runpantheon?label=npm%20%C2%B7%20runpantheon&color=111111" /></a>
+<a href="https://docs.pantheon.run/guides/connect-ai-agent"><img alt="MCP server" src="https://img.shields.io/badge/MCP-mcp.pantheon.run-111111" /></a>
+<a href="https://github.com/runpantheon/pantheon/discussions"><img alt="Discussions" src="https://img.shields.io/github/discussions/runpantheon/pantheon?color=111111" /></a>
 
 </div>
 
@@ -32,7 +39,7 @@ This is Pantheon's public home on GitHub: report bugs, ask for features, ask que
 <td width="50%" valign="top">
 
 **One inbox for every chat**<br>
-<sub>Telegram, WhatsApp and iMessage side by side, with each person's history kept together across channels.</sub>
+<sub>Telegram, WhatsApp, iMessage and X/Twitter side by side, with each person's history kept together across channels.</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -65,7 +72,7 @@ This is Pantheon's public home on GitHub: report bugs, ask for features, ask que
 | **Web** | [app.pantheon.run](https://app.pantheon.run) |
 | **Mac** | [pantheon.run/download](https://pantheon.run/download) — Telegram, WhatsApp and iMessage in one inbox on your Mac |
 | **AI tools** | Paste `https://mcp.pantheon.run/mcp` into Claude or ChatGPT → Settings → Connectors. [Guide](https://docs.pantheon.run/guides/connect-ai-agent) |
-| **Command line** | `curl -fsSL https://pantheon.run/install.sh \| sh` (macOS / Linux), `irm https://pantheon.run/install.ps1 \| iex` (Windows), or `npm install -g runpantheon` |
+| **Command line** | `curl -fsSL https://pantheon.run/install.sh \| sh` (macOS / Linux), `irm https://pantheon.run/install.ps1 \| iex` (Windows), or `npm install -g runpantheon` ([npm](https://www.npmjs.com/package/runpantheon)), then `pantheon setup` |
 
 ## Get help
 
